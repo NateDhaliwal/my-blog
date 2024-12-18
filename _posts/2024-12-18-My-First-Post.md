@@ -5,11 +5,11 @@ subtitle: My first post on this blog
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [general]
 author: NateDhaliwal
 ---
 
-<h1>Hi there, I'm NateDhaliwal!</h1>
+# Hi there, I'm NateDhaliwal!
 
 I'm NateDhaliwal. I'm starting this blog today! Allow me to introduce myself.
 <br><br>
